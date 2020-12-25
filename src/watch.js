@@ -91,6 +91,7 @@ const Watch = ({ showModal, closeModal, details }) => {
             </div>
           </div>
         </div>
+        
         {!verifiedNumber ? (
           <div className="container">
             <div className="flex">
@@ -132,8 +133,7 @@ const Watch = ({ showModal, closeModal, details }) => {
 
               <div className="flex">
                 <p>
-                  An OTP would be sent to the number added above to verify the
-                  number
+                A code would be sent to the number added above for verification.
                 </p>
 
                 <div>

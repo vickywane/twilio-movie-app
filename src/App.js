@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="App">
-      {/* <div className="align-center">
+      <div className="align-center">
         <div className="notice-bar">
           <div className="container">
             <p>
@@ -57,7 +57,7 @@ function App() {
             </p>
           </div>
         </div>
-      </div> */}
+      </div>
 
       <br />
       <WatchModal
